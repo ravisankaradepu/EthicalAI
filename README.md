@@ -39,3 +39,5 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 # Research Groups
 
 # Conferences
+* [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/)
+  Happening since 2018
