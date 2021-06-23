@@ -36,7 +36,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * [The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning Jul 2018](https://arxiv.org/abs/1808.00023)
 * [The Measure and Mismeasure of Fairness:A Critical Review of Fair Machine Learning 2018](https://arxiv.org/pdf/1808.00023.pdf)
 * [A comparative study of fairness-enhancing interventions in machine learning 2018](https://arxiv.org/pdf/1802.04422.pdf)
-* [Fairness Definitions Explained)(https://fairware.cs.umass.edu/papers/Verma.pdf)
+* [Fairness Definitions Explained](https://fairware.cs.umass.edu/papers/Verma.pdf)
 
 # Papers
 * [Amazon AI Fairness and Explainability Whitepaper](https://pages.awscloud.com/rs/112-TZM-766/images/Amazon.AI.Fairness.and.Explainability.Whitepaper.pdf)
@@ -53,7 +53,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 ## Papers [Fairness + NLP]
 
 # Courses 
-These are various courses offerred at various universities / industry sponsored with fairness as central theme.
+These are various courses offerred at various universities/industry sponsored with fairness as central theme.
 
 * [Artificial Intelligence Data Fairness and Bias ](https://www.coursera.org/learn/ai-data-bias#syllabus)
 * [Google ML Crash course](https://developers.google.com/machine-learning/crash-course/fairness/video-lecture)
