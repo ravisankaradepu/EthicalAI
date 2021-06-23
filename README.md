@@ -48,6 +48,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * (On the (im)possibility of fairness)(https://arxiv.org/pdf/1609.07236.pdf)
 
 ## Papers [Fairness + CV]
+
 ## Papers [Fairness + NLP]
 
 # Courses
