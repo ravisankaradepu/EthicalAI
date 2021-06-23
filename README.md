@@ -7,6 +7,8 @@ This is a work in progress list, we keep adding list of papers in general and ot
 * [Tutorial and Blogs](#tutorials-and-blogs)
 * [Papers](#papers)
   * [Surveys](#surveys)
+   * [Fairness + CV](fairness+cv)
+   * [Fairness + NLP](fairness+nlp)
   * [Whitepaper](#whitepaper)
   * [Books](#books)
   * [Tools](#tools)
@@ -26,7 +28,7 @@ This is a work in progress list, we keep adding list of papers in general and ot
 
 Papers are ordered by theme and inside each theme by publication date (submission date for arXiv papers).
 
-## Surveys 
+# Surveys 
 * [Algorithmic Fairness Jan 2020](https://arxiv.org/pdf/2001.09784.pdf)
 * [The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning Jul 2018](https://arxiv.org/abs/1808.00023)
 * [A Survey on Bias and Fairness in Machine Learning 2018](https://arxiv.org/pdf/1908.09635.pdf)
@@ -44,6 +46,9 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * [The Frontiers of Fairness in Machine Learning](https://arxiv.org/pdf/1810.08810.pdf)
 * [Certifying and removing disparate impact 2014](https://arxiv.org/pdf/1412.3756.pdf)
 * (On the (im)possibility of fairness)(https://arxiv.org/pdf/1609.07236.pdf)
+
+## Papers [Fairness + CV]
+## Papers [Fairness + NLP]
 
 # Courses
 * [Artificial Intelligence Data Fairness and Bias ](https://www.coursera.org/learn/ai-data-bias#syllabus)
