@@ -9,6 +9,9 @@ This is a work in progress list, we keep adding list of papers in general and ot
   * [Surveys](#surveys)
   * [Whitepaper](#whitepaper)
   * [Books](#books)
+  * [Tools](#tools)
+* [Research Groups](#research-groups)
+* [Conferences](#conferences)
    
 
 # Tutorials and Blogs 
@@ -32,3 +35,6 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 
 # Tools
 * [Amazon SageMaker Clarify] (https://aws.amazon.com/sagemaker/clarify/)
+# Research Groups
+
+# Conferences
