@@ -21,8 +21,9 @@ This is a work in progress list, we keep adding list of papers and other useful 
 # Tutorials and Blogs 
 A list of tutorials given at various ML conferences (in reverse chronological order). A video recording is also available for many of the listed tutorials below.
 
+* [CVPR 2020 Tutorial Fairness Accountability Transparency and Ethics and Computer Vision](https://www.youtube.com/watch?v=1giRROXbrF0)
 * [Fairness-aware Machine Learning: Practical Challenges and Lessons Learned (WSDM 2019 Tutorial)](https://www.slideshare.net/KrishnaramKenthapadi/fairnessaware-machine-learning-practical-challenges-and-lessons-learned-wsdm-2019-tutorial)
-* [FAT* 2019 Translation Tutorial: Challenges of incorporating algorithmic fairness into industry practice (slides & Video available)](https://www.youtube.com/watch?v=UicKZv93SOY)(https://drive.google.com/file/d/1rUQkVS0NzSH3IEqZDsczSxBbhYHbjamN/view)
+* [FAT* 2019 Translation Tutorial: Challenges of incorporating algorithmic fairness into industry practice (slides & video available)](https://www.youtube.com/watch?v=UicKZv93SOY)(https://drive.google.com/file/d/1rUQkVS0NzSH3IEqZDsczSxBbhYHbjamN/view)
 * [Tutorial #1: bias and fairness in AI @BOREALIS AI 2019](https://www.borealisai.com/en/blog/tutorial1-bias-and-fairness-ai/)
 * [EC'18 Tutorial: Algorithmic Fairness (Part 1): Defining and Designing Fair Algorithms](https://www.youtube.com/watch?v=GH_uv0g0ZTI)
 * [Fairness in Machine Learning (NIPS 2017)](https://mrtz.org/nips17/#/)
