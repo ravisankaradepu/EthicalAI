@@ -1,5 +1,5 @@
 # Awesome Ethical AI
-A list of awesome papers and cool resources on Ethical AI in general! 
+A list of awesome papers and cool resources on Ethical AI in general (A.K.A Bias in ML, Fairness in ML)
 This is a work in progress list, we keep adding list of papers in general and other subfields of Ethical AI.
 
 # Table of Contents
@@ -35,9 +35,12 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * [Krishnaram Kenthapadi] (http://www-cs-students.stanford.edu/~kngk/)
 
 # Tools
+* [AI Fairness 360](https://aif360.mybluemix.net/) 
+* This extensible open source toolkit can help you examine, report, and mitigate discrimination and bias in machine learning models throughout the AI application lifecycle. We invite you to use and improve it.](https://aif360.mybluemix.net/)
 * [Amazon SageMaker Clarify] (https://aws.amazon.com/sagemaker/clarify/)
 # Research Groups
 
 # Conferences
 * [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/)
-  Happening since 2018. An excellent source for all upcoming events in the are of Ethical AI is [hosted here](https://facctconference.org/network/) 
+  An excellent source for all upcoming events in the are of Ethical AI is [hosted here](https://facctconference.org/network/) 
+ *
