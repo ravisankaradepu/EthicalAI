@@ -33,6 +33,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * [Fairness in Deep Learning:A Computational Perspective](https://arxiv.org/pdf/1908.08843.pdf)
 * [The Measure and Mismeasure of Fairness:A Critical Review of Fair Machine Learning](https://arxiv.org/pdf/1808.00023.pdf)
 * [A comparative study of fairness-enhancing interventions in machine learning 2018](https://arxiv.org/pdf/1802.04422.pdf)
+* [Fairness Definitions Explained)(https://fairware.cs.umass.edu/papers/Verma.pdf)
 
 # Papers
 * [Amazon AI Fairness and Explainability Whitepaper](https://pages.awscloud.com/rs/112-TZM-766/images/Amazon.AI.Fairness.and.Explainability.Whitepaper.pdf)
@@ -42,12 +43,15 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * [Avoiding Discrimination through Causal Reasoning NIPS 2017](https://arxiv.org/abs/1706.02744)
 * [The Frontiers of Fairness in Machine Learning](https://arxiv.org/pdf/1810.08810.pdf)
 * [Certifying and removing disparate impact 2014](https://arxiv.org/pdf/1412.3756.pdf)
+* (On the (im)possibility of fairness)(https://arxiv.org/pdf/1609.07236.pdf)
 
 # Courses
 * [Artificial Intelligence Data Fairness and Bias ](https://www.coursera.org/learn/ai-data-bias#syllabus)
 * [Google ML Crash course](https://developers.google.com/machine-learning/crash-course/fairness/video-lecture)
 * [CSE 599, Winter 2020 Foundations of Fairness in Machine Learning (CS Uni of Washington)](https://courses.cs.washington.edu/courses/cse599m/20wi/)
 * [Foundations of Fairness in ML](http://jamiemorgenstern.com/teaching/f18-fairml/)
+* [CS 294: Fairness in Machine Learning @UC Berkeley Fall 2017](https://fairmlclass.github.io/)
+* [A Course on Fairness, Accountability and Transparency in Machine Learning; GIAN course by Suresh](https://geomblog.github.io/fairness/)
 
 # Intresting works
 * [Re-imagining Algorithmic Fairness in India and Beyond; Jan 2021](https://arxiv.org/pdf/2101.09995.pdf)
