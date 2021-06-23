@@ -66,6 +66,7 @@ These are various courses offerred at various universities / industry sponsored 
 * [Re-imagining Algorithmic Fairness in India and Beyond; Jan 2021](https://arxiv.org/pdf/2101.09995.pdf)
 
 # Books
+The given below are books that are freely available online solely devoted to fairness in Machine Learning. 
 * [FAIRNESS AND MACHINE LEARNING Limitations and Opportunities](https://fairmlbook.org/pdf/fairmlbook.pdf)
 
 # Research Groups
