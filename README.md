@@ -22,10 +22,12 @@ This is a work in progress list, we keep adding list of papers in general and ot
 
 Papers are ordered by theme and inside each theme by publication date (submission date for arXiv papers). If the network or algorithm is given a name in a paper, this one is written in bold before the paper's name.
 
-## Surveys
+## Surveys 
 * [Algorithmic Fairness Jan 2020](https://arxiv.org/pdf/2001.09784.pdf)
 * [The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning Jul 2018](https://arxiv.org/abs/1808.00023)
-* 
+* [A Survey on Bias and Fairness in Machine Learning 2018](https://arxiv.org/pdf/1908.09635.pdf)
+* [Fairness in Deep Learning:A Computational Perspective](https://arxiv.org/pdf/1908.08843.pdf)
+* [The Measure and Mismeasure of Fairness:A Critical Review of Fair Machine Learning](https://arxiv.org/pdf/1808.00023.pdf)
 
 # Papers
 * [Amazon AI Fairness and Explainability Whitepaper] (https://pages.awscloud.com/rs/112-TZM-766/images/Amazon.AI.Fairness.and.Explainability.Whitepaper.pdf)
@@ -33,7 +35,12 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * [Counterfactual Fairness NIPS 2017](https://arxiv.org/pdf/1703.06856.pdf)
 * [Equality of Opportunity in Supervised Learning](https://arxiv.org/pdf/1610.02413.pdf)
 * [Avoiding Discrimination through Causal Reasoning NIPS 2017](https://arxiv.org/abs/1706.02744)
-* 
+* [The Frontiers of Fairness in Machine Learning](https://arxiv.org/pdf/1810.08810.pdf)
+
+# Courses
+* [Artificial Intelligence Data Fairness and Bias ](https://www.coursera.org/learn/ai-data-bias#syllabus)
+* [Google ML Crash course](https://developers.google.com/machine-learning/crash-course/fairness/video-lecture)
+* [CSE 599, Winter 2020 Foundations of Fairness in Machine Learning (CS Uni of Washington](https://courses.cs.washington.edu/courses/cse599m/20wi/)
 
 # Intresting works
 * [Re-imagining Algorithmic Fairness in India and Beyond; Jan 2021](https://arxiv.org/pdf/2101.09995.pdf)
@@ -44,6 +51,8 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 # Research Groups
 * [Krishnaram Kenthapadi](http://www-cs-students.stanford.edu/~kngk/)
 * [Zack Lipton](http://zacklipton.com/presentations/)
+* [Alexandra Chouldechova](http://www.andrew.cmu.edu/user/achoulde/)
+* 
 # Tools
 * [What-If Tool (Google)](https://pair-code.github.io/what-if-tool/)
 * [AI Fairness 360 (IBM)](https://aif360.mybluemix.net/) 
