@@ -7,6 +7,8 @@ This is a work in progress list, we keep adding list of papers in general and ot
 * [Tutorial and Blogs](#tutorials-and-blogs)
 * [Papers](#papers)
   * [Surveys](#surveys)
+  * [Whitepaper](#whitepaper)
+  * [Books](#books)
    
 
 # Tutorials and Blogs 
