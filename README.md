@@ -1,14 +1,15 @@
 # Awesome Ethical AI
 A list of awesome papers and cool resources on Ethical AI in general (A.K.A Algorithmic Bias in ML, Fairness in ML and many more !!)
-This is a work in progress list, we keep adding list of papers and other useful resources in general and other subfields of Ethical AI. These list of resources can help kickstart a research study in Fair AI. 
+This is a work in progress list, we keep adding list of papers and other useful resources in general and other subfields of Ethical AI. These list of resources can help kickstart a research study in Ethical AI. 
 
 # Table of Contents
 
 * [Tutorial and Blogs](#tutorials-and-blogs)
 * [Papers](#papers)
   * [Surveys](#surveys)
-   * [Fairness + CV](fairness+cv)
-   * [Fairness + NLP](fairness+nlp)
+   * [Fairness + Computer Vision](fairness+cv)
+   * [Fairness + Natural Language Processing](fairness+nlp)
+   * [Fairness + Deep Learning](fairness+dl)
   * [Whitepaper](#whitepaper)
   * [Books](#books)
   * [Tools](#tools)
@@ -53,6 +54,8 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 ## Papers [Fairness + CV]
 
 ## Papers [Fairness + NLP]
+
+## Papers [Fairness + Deep Learning]
 
 # Courses 
 These are various courses offerred at various universities/industry sponsored with fairness as central theme.
