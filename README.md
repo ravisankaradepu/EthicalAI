@@ -40,4 +40,4 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 
 # Conferences
 * [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/)
-  Happening since 2018
+  Happening since 2018. An excellent source for all upcoming events in the are of Ethical AI is [hosted here](https://facctconference.org/network/) 
