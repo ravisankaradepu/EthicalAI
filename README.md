@@ -35,9 +35,10 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * [Krishnaram Kenthapadi] (http://www-cs-students.stanford.edu/~kngk/)
 
 # Tools
-* [AI Fairness 360](https://aif360.mybluemix.net/) 
+* [What-If Tool (Google)](https://pair-code.github.io/what-if-tool/)
+* [AI Fairness 360 (IBM)](https://aif360.mybluemix.net/) 
  This extensible open source toolkit can help you examine, report, and mitigate discrimination and bias in machine learning models throughout the AI application lifecycle. We invite you to use and improve it.](https://aif360.mybluemix.net/)
-* [Amazon SageMaker Clarify] (https://aws.amazon.com/sagemaker/clarify/)
+* [Amazon SageMaker Clarify](https://aws.amazon.com/sagemaker/clarify/)
 # Research Groups
 
 # Conferences
