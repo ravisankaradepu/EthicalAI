@@ -24,12 +24,16 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 
 ## Surveys
 * [Algorithmic Fairness Jan 2020](https://arxiv.org/pdf/2001.09784.pdf)
+* [The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning Jul 2018](https://arxiv.org/abs/1808.00023)
 * 
 
 # Papers
 * [Amazon AI Fairness and Explainability Whitepaper] (https://pages.awscloud.com/rs/112-TZM-766/images/Amazon.AI.Fairness.and.Explainability.Whitepaper.pdf)
 * [PriPeARL: A Framework for Privacy-Preserving Analytics and Reporting at LinkedIn] (https://arxiv.org/abs/1809.07754)
-* [Counterfactual Fairness](https://arxiv.org/pdf/1703.06856.pdf)
+* [Counterfactual Fairness NIPS 2017](https://arxiv.org/pdf/1703.06856.pdf)
+* [Equality of Opportunity in Supervised Learning](https://arxiv.org/pdf/1610.02413.pdf)
+* [Avoiding Discrimination through Causal Reasoning NIPS 2017](https://arxiv.org/abs/1706.02744)
+* 
 
 # Intresting works
 * [Re-imagining Algorithmic Fairness in India and Beyond; Jan 2021](https://arxiv.org/pdf/2101.09995.pdf)
