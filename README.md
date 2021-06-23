@@ -12,6 +12,7 @@ This is a work in progress list, we keep adding list of papers in general and ot
   * [Tools](#tools)
 * [Research Groups](#research-groups)
 * [Conferences](#conferences)
+* [Miscellaneous](#miscellaneous)
    
 
 # Tutorials and Blogs 
@@ -22,26 +23,32 @@ This is a work in progress list, we keep adding list of papers in general and ot
 Papers are ordered by theme and inside each theme by publication date (submission date for arXiv papers). If the network or algorithm is given a name in a paper, this one is written in bold before the paper's name.
 
 ## Surveys
+* [Algorithmic Fairness Jan 2020](https://arxiv.org/pdf/2001.09784.pdf)
+* 
 
-# Whitepaper
+# Papers
 * [Amazon AI Fairness and Explainability Whitepaper] (https://pages.awscloud.com/rs/112-TZM-766/images/Amazon.AI.Fairness.and.Explainability.Whitepaper.pdf)
 * [PriPeARL: A Framework for Privacy-Preserving Analytics and Reporting at LinkedIn] (https://arxiv.org/abs/1809.07754)
+* [Counterfactual Fairness](https://arxiv.org/pdf/1703.06856.pdf)
+
+# Intresting works
+* [Re-imagining Algorithmic Fairness in India and Beyond; Jan 2021](https://arxiv.org/pdf/2101.09995.pdf)
 
 # Books
-
 * [FAIRNESS AND MACHINE LEARNING Limitations and Opportunities](https://fairmlbook.org/pdf/fairmlbook.pdf)
 
 # Research Groups
-* [Krishnaram Kenthapadi] (http://www-cs-students.stanford.edu/~kngk/)
-
+* [Krishnaram Kenthapadi](http://www-cs-students.stanford.edu/~kngk/)
+* [Zack Lipton](http://zacklipton.com/presentations/)
 # Tools
 * [What-If Tool (Google)](https://pair-code.github.io/what-if-tool/)
 * [AI Fairness 360 (IBM)](https://aif360.mybluemix.net/) 
  This extensible open source toolkit can help you examine, report, and mitigate discrimination and bias in machine learning models throughout the AI application lifecycle. We invite you to use and improve it.](https://aif360.mybluemix.net/)
 * [Amazon SageMaker Clarify](https://aws.amazon.com/sagemaker/clarify/)
-# Research Groups
 
 # Conferences
 * [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/)
   An excellent source for all upcoming events in the are of Ethical AI is [hosted here](https://facctconference.org/network/) 
  *
+# Miscellaneous
+* https://medium.com/fair-bytes/reading-list-for-fairness-in-ai-topics-337e8606fd8d
