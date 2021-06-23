@@ -19,10 +19,11 @@ This is a work in progress list, we keep adding list of papers in general and ot
 * [Fairness-aware Machine Learning: Practical Challenges and Lessons Learned (WSDM 2019 Tutorial)](https://www.slideshare.net/KrishnaramKenthapadi/fairnessaware-machine-learning-practical-challenges-and-lessons-learned-wsdm-2019-tutorial)
 * [Fairness in Machine Learning (NIPS 2017)](https://mrtz.org/nips17/#/)
 * [FAT* 2019 Translation Tutorial: Challenges of incorporating algorithmic fairness into industry practice (slides & Video available)](https://www.youtube.com/watch?v=UicKZv93SOY)(https://drive.google.com/file/d/1rUQkVS0NzSH3IEqZDsczSxBbhYHbjamN/view)
-* 
+* [Algorithmic bias: from discrimination discovery tofairness-aware data mining (KDD’16 Tutorial)](http://www.francescobonchi.com/tutorial-algorithmic-bias.pdf)
+* [EC'18 Tutorial: Algorithmic Fairness (Part 1): Defining and Designing Fair Algorithms](https://www.youtube.com/watch?v=GH_uv0g0ZTI)
 # Papers
 
-Papers are ordered by theme and inside each theme by publication date (submission date for arXiv papers). If the network or algorithm is given a name in a paper, this one is written in bold before the paper's name.
+Papers are ordered by theme and inside each theme by publication date (submission date for arXiv papers).
 
 ## Surveys 
 * [Algorithmic Fairness Jan 2020](https://arxiv.org/pdf/2001.09784.pdf)
@@ -38,11 +39,12 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * [Equality of Opportunity in Supervised Learning](https://arxiv.org/pdf/1610.02413.pdf)
 * [Avoiding Discrimination through Causal Reasoning NIPS 2017](https://arxiv.org/abs/1706.02744)
 * [The Frontiers of Fairness in Machine Learning](https://arxiv.org/pdf/1810.08810.pdf)
+* [Certifying and removing disparate impact 2014](https://arxiv.org/pdf/1412.3756.pdf)
 
 # Courses
 * [Artificial Intelligence Data Fairness and Bias ](https://www.coursera.org/learn/ai-data-bias#syllabus)
 * [Google ML Crash course](https://developers.google.com/machine-learning/crash-course/fairness/video-lecture)
-* [CSE 599, Winter 2020 Foundations of Fairness in Machine Learning (CS Uni of Washington](https://courses.cs.washington.edu/courses/cse599m/20wi/)
+* [CSE 599, Winter 2020 Foundations of Fairness in Machine Learning (CS Uni of Washington)](https://courses.cs.washington.edu/courses/cse599m/20wi/)
 
 # Intresting works
 * [Re-imagining Algorithmic Fairness in India and Beyond; Jan 2021](https://arxiv.org/pdf/2101.09995.pdf)
