@@ -45,6 +45,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 # Papers
 * [Amazon AI Fairness and Explainability Whitepaper](https://pages.awscloud.com/rs/112-TZM-766/images/Amazon.AI.Fairness.and.Explainability.Whitepaper.pdf)
 * [The Frontiers of Fairness in Machine Learning 2018](https://arxiv.org/pdf/1810.08810.pdf)
+* [Fairness without demograph-ics in repeated loss minimization ICML 2018]
 * [PriPeARL: A Framework for Privacy-Preserving Analytics and Reporting at LinkedIn 2018](https://arxiv.org/abs/1809.07754)
 * [Counterfactual Fairness NIPS 2017](https://arxiv.org/pdf/1703.06856.pdf)
 * [Avoiding Discrimination through Causal Reasoning NIPS 2017](https://arxiv.org/abs/1706.02744)
@@ -52,13 +53,21 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * [Equality of Opportunity in Supervised Learning 2016](https://arxiv.org/pdf/1610.02413.pdf)
 * [Certifying and removing disparate impact 2014](https://arxiv.org/pdf/1412.3756.pdf)
 * [On Formalizing Fairness in Prediction with Machine Learning](https://arxiv.org/pdf/1710.03184.pdf)
+* [Putting fairness principles into practice:  Challenges, metrics, and improvements, AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES), 2019.](https://arxiv.org/abs/1901.04562)
 
 ## Papers [Fairness + CV]
  *[Balanced datasets are not enough: Estimating and mitigating genderbias  in  deep  image  representations ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Balanced_Datasets_Are_Not_Enough_Estimating_and_Mitigating_Gender_Bias_ICCV_2019_paper.pdf)
  *[Women also snowboard: Overcoming bias in captioning models ECCV 2018](https://arxiv.org/pdf/1803.09797.pdf)
+ *[Towards privacy-preserving visual recognition via ad-versarial training: A pilot study ECCV 2018]
+ *[Deeplearning for face recognition: Pride or prejudiced Arxiv 2019](https://arxiv.org/abs/1904.01219)
 
 ## Papers [Fairness + NLP]
- *[Adversarial removal of demographic attributes from text data.Empirical Methods in Natural Language Processing (EMNLP), 2018]()
+ *[Adversarial removal of demographic attributes from text data.Empirical Methods in Natural Language Processing (EMNLP), 2018]
+ *[Learning gender-neutral word embeddings EMNLP 2018]
+ *[Men also like shopping:  Reducing gender bias amplification using corpus-level constraints EMNLP 2017]
+ *[Man is to computer programmer as woman is to homemaker? debiasing word embeddings NIPS 2016]
+ 
+
 ## Papers [Fairness + Deep Learning]
 
 # Courses 
