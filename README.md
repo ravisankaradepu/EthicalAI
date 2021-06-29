@@ -51,11 +51,14 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * [On the (im)possibility of fairness 2016](https://arxiv.org/pdf/1609.07236.pdf)
 * [Equality of Opportunity in Supervised Learning 2016](https://arxiv.org/pdf/1610.02413.pdf)
 * [Certifying and removing disparate impact 2014](https://arxiv.org/pdf/1412.3756.pdf)
+* [On Formalizing Fairness in Prediction with Machine Learning](https://arxiv.org/pdf/1710.03184.pdf)
 
 ## Papers [Fairness + CV]
+ *[Balanced datasets are not enough: Estimating and mitigating genderbias  in  deep  image  representations ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Balanced_Datasets_Are_Not_Enough_Estimating_and_Mitigating_Gender_Bias_ICCV_2019_paper.pdf)
+ *[Women also snowboard: Overcoming bias in captioning models ECCV 2018](https://arxiv.org/pdf/1803.09797.pdf)
 
 ## Papers [Fairness + NLP]
-
+ *[Adversarial removal of demographic attributes from text data.Empirical Methods in Natural Language Processing (EMNLP), 2018]()
 ## Papers [Fairness + Deep Learning]
 
 # Courses 
@@ -70,6 +73,8 @@ These are various courses offerred at various universities/industry sponsored wi
 
 # Intresting works
 * [Re-imagining Algorithmic Fairness in India and Beyond; Jan 2021](https://arxiv.org/pdf/2101.09995.pdf)
+* [Why Is My Classifier Discriminatory? NeurIPS 2018](https://papers.nips.cc/paper/2018/file/1f1baa5b8edac74eb4eaa329f14a0361-Paper.pdf)
+* 
 
 # Books
 The given below are books that are freely available online solely devoted to fairness in Machine Learning. 
