@@ -103,10 +103,13 @@ The given below are books that are freely available online solely devoted to fai
 * [AI Fairness 360 (IBM)](https://aif360.mybluemix.net/) 
  This extensible open source toolkit can help you examine, report, and mitigate discrimination and bias in machine learning models throughout the AI application lifecycle. We invite you to use and improve it.](https://aif360.mybluemix.net/)
 * [Amazon SageMaker Clarify](https://aws.amazon.com/sagemaker/clarify/)
+* Many other e.g: scikit-fairness, ML-fairness-gym, CERTIFAI, FairSight
 
 # Conferences
 * [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/)
   An excellent source for all upcoming events in the are of Ethical AI is [hosted here](https://facctconference.org/network/) 
- *
+ * [AIES: AAAI/ACM Conference on AI, Ethics, and Society](http://www.aies-conference.com/2020/)
+ * [FATML: Fairness, ACcountability, and Transparency in Machine Learning Workshop](https://www.fatml.org/)
+ 
 # Miscellaneous
 * https://medium.com/fair-bytes/reading-list-for-fairness-in-ai-topics-337e8606fd8d
