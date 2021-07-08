@@ -103,6 +103,7 @@ The given below are books that are freely available online solely devoted to fai
 * [AI Fairness 360 (IBM)](https://aif360.mybluemix.net/) 
  This extensible open source toolkit can help you examine, report, and mitigate discrimination and bias in machine learning models throughout the AI application lifecycle. We invite you to use and improve it.](https://aif360.mybluemix.net/)
 * [Amazon SageMaker Clarify](https://aws.amazon.com/sagemaker/clarify/)
+* [LiFT](https://github.com/linkedin/LiFT)
 * Many other e.g: scikit-fairness, ML-fairness-gym, CERTIFAI, FairSight
 
 # Conferences
