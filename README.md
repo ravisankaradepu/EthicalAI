@@ -55,6 +55,13 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 * [On the (im)possibility of fairness 2016](https://arxiv.org/pdf/1609.07236.pdf)
 * [Equality of Opportunity in Supervised Learning 2016](https://arxiv.org/pdf/1610.02413.pdf)
 * [Certifying and removing disparate impact 2014](https://arxiv.org/pdf/1412.3756.pdf)
+* [Mitigating Unwanted Biases with Adversarial Learning](https://arxiv.org/abs/1801.07593)
+* [A Fair Classifier Using Kernel Density Estimation NeurIPS 2020](https://proceedings.neurips.cc/paper/2020/hash/ac3870fcad1cfc367825cda0101eee62-Abstract.html)
+* [Achieving Equalized Odds by Resampling Sensitive Attributes NeurIPS 2020](https://proceedings.neurips.cc/paper/2020/hash/03593ce517feac573fdaafa6dcedef61-Abstract.html)
+* [FR-Train: A mutual information-based approach to fair and robust training ICML 2020](https://arxiv.org/pdf/2002.10234.pdf)
+* [FairBatch: Batch Selection for Model Fairness ICLR 2021](https://arxiv.org/abs/2012.01696)
+* [Fair Mixup: Fairness via Interpolation ICLR 2021](https://arxiv.org/abs/2103.06503)
+* 
 
 ## Papers [Fairness + CV]
  * [Balanced datasets are not enough: Estimating and mitigating genderbias  in  deep  image  representations ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Balanced_Datasets_Are_Not_Enough_Estimating_and_Mitigating_Gender_Bias_ICCV_2019_paper.pdf)
@@ -62,6 +69,7 @@ Papers are ordered by theme and inside each theme by publication date (submissio
  * [Towards privacy-preserving visual recognition via ad versarial training: A pilot study ECCV 2018]
  * [Deeplearning for face recognition: Pride or prejudiced Arxiv 2019](https://arxiv.org/abs/1904.01219)
  * [ConvNets and ImageNet Beyond Accuracy:Understanding Mistakes and Uncovering Biases Arxiv 2018](https://arxiv.org/pdf/1711.11443.pdf)
+ * [Towards Fairness in Visual Recognition: Effective Strategies for Bias Mitigation CVPR 2020](https://arxiv.org/abs/1911.11834)
 
 
 ## Papers [Fairness + NLP]
@@ -69,7 +77,14 @@ Papers are ordered by theme and inside each theme by publication date (submissio
  * [Learning gender-neutral word embeddings EMNLP 2018]
  * [Men also like shopping:  Reducing gender bias amplification using corpus-level constraints EMNLP 2017]
  * [Man is to computer programmer as woman is to homemaker? debiasing word embeddings NIPS 2016]
- 
+ * [Don't Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases EMNLP 2019](https://arxiv.org/abs/1909.03683)
+ * [Incorporating Priors with Feature Attribution on Text Classification ACL 2019](https://arxiv.org/abs/1906.08286)
+ * [Dynamically Disentangling Social Bias from Task-Oriented Representations with Adversarial Attack NACCL 2021](https://aclanthology.org/2021.naacl-main.293/)
+
+
+## Papers [Fairness + Recommendation]
+ * [FairRec: Fairness-aware News Recommendation with Decomposed Adversarial Learning AAAI 2021](https://arxiv.org/abs/2006.16742)
+
 
 ## Papers [Fairness + Deep Learning]
 
